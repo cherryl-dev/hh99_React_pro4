@@ -1,8 +1,10 @@
+import Header from "../components/common/Header";
+
 const MainPage = () => {
     return (
-        <div>
-            <div>리액트</div>
-        </div>
+        <>
+            <Header />
+        </>
     );
 };
 

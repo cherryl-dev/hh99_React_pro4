@@ -4,6 +4,7 @@ import palette from "../../styles/palette";
 
 const CustomLink = styled(Link)`
     color: ${palette.brown[0]};
+    text-decoration: none;
 `;
 
 export default CustomLink;
